@@ -17,3 +17,4 @@ langchain-mistralai
 tavily-python
 python-dotenv
 requests
+langchain_openai
