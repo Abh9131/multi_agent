@@ -18,3 +18,4 @@ tavily-python
 python-dotenv
 requests
 langchain_openai
+bs4
